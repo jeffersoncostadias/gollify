@@ -83,7 +83,6 @@ public class Extra1Activity extends AppCompatActivity {
     }
 
 
-
     public void apagarBotoes(){
         for(Integer i=0; i < MAX_BOTOES; i++)
             btn[i].setVisibility(View.VISIBLE);
