@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/icone_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_ranking"
+            android:icon="@drawable/icone_podium"
+            android:title="@string/menu_ranking" />
+        <item
+            android:id="@+id/nav_conquista"
+            android:icon="@drawable/icone_trofeu"
+            android:title="@string/menu_conquistas"/>
+        <item
+            android:id="@+id/nav_fases"
+            android:icon="@drawable/icone_comprar_fases"
+            android:title="@string/menu_fases" />
+    </group>
+
+    <item android:title="Agradecimentos">
+        <menu>
+            <item
+                android:id="@+id/nav_sobre"
+                android:icon="@drawable/icone_sobre"
+                android:title="@string/menu_sobre" />
+
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.gollify">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Activities.FasesActivity"
+            android:theme="@style/adquiriFasesTheme"
+            android:parentActivityName=".Activities.MainActivity"></activity>
+        <activity
+            android:name=".Activities.SobreActivity"
+            android:theme="@style/sobreTheme"
+            android:parentActivityName=".Activities.MainActivity" />
+        <activity
+            android:name=".Activities.ConquistaActivity"
+            android:theme="@style/conquistaTheme"
+            android:parentActivityName=".Activities.MainActivity" />
+        <activity
+            android:name=".Activities.RankingActivity"
+            android:theme="@style/rankingTheme"
+            android:parentActivityName=".Activities.MainActivity" />
+        <activity android:name=".Activities.TecnologiaActivity" />
+        <activity android:name=".Activities.NaturezaActivity" />
+        <activity android:name=".Activities.AmizadeActivity" />
+        <activity android:name=".Activities.CotidianoActivity" />
+        <activity android:name=".Activities.Extra3Activity" />
+        <activity android:name=".Activities.Extra2Activity" />
+        <activity android:name=".Activities.Extra1Activity" />
+        <activity android:name=".Activities.ObjetosActivity" />
+        <activity android:name=".Activities.CardinalActivity" />
+        <activity android:name=".Activities.AnimaisActivity" />
+        <activity
+            android:name=".Activities.MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

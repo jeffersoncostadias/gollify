@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Gollify</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Nome</string>
+    <string name="nav_header_subtitle">Nivel</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Sair</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_ranking">Ranking</string>
+    <string name="menu_conquistas">Conquistas</string>
+    <string name="menu_fases">Adquirir Fases</string>
+    <string name="menu_sobre">Sobre</string>
+    <string name="menu_send">Send</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reinciar">Reiniciar</string>
+    <string name="botao1">One</string>
+    <string name="botao2">Two</string>
+    <string name="botao3">Three</string>
+    <string name="botao4">Four</string>
+    <string name="botao5">Five</string>
+    <string name="botao6">Six</string>
+    <string name="botaoA">Big</string>
+    <string name="botaoB">Small</string>
+    <string name="botaoC">Thin</string>
+    <string name="botaoD">Fat</string>
+    <string name="botaoE">Angry</string>
+    <string name="botaoF">Calm</string>
+    <string name="botaoA1">Coat</string>
+    <string name="botaoB2">Crib</string>
+    <string name="botaoC3">Hat</string>
+    <string name="botaoD4">Hanger</string>
+    <string name="botaoE5">Comb</string>
+    <string name="botaoF6">Boot</string>
+    <string name="progresso">0/6</string>
+    <string name="parabens1">Parabéns!</string>
+    <string name="parabens2">Avance na Lição!</string>
+    <string name="concluir">Concluir!</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="senha">Senha</string>
+    <string name="nome">Usuário</string>
+    <string name="acessar">ACESSAR</string>
+    <string name="cadastrar">CADASTRAR</string>
+</resources>

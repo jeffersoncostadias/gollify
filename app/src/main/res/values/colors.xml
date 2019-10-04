@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FFA000</color>
+    <color name="write">#FCFCFC</color>
+    <color name="selecaolight">#F0F7FFFF</color>
+    <color name="lightgray">#EDEDED</color>
+    <color name="deeppurple">#7C4DFF</color>
+    <color name="orange">#FFB300</color>
+    <color name="tea">#00bfa5</color>
+    <color name="green">#00C853</color>
+    <color name="colorAccent">#00C853</color>
+    <color name="darkblue">#23283A</color>
+    <color name="blueA">#152b38</color>
+    <color name="pink">#c51162</color>
+    <color name="yellow">#ffd600</color>
+    <color name="brown">#947A0E</color>
+    <color name="ligthgreen">#00d204</color>
+    <color name="red">#d50000</color>
+    <color name="blue">#2962ff</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="black">#FF424242</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBorder">#d0ced0</color>
+    <color name="cardview1">#F44336</color>
+    <color name="cardview2">#9C27B0</color>
+    <color name="cardview3">#009688</color>
+    <color name="cardview4">#FFFFFF</color>
+    <color name="cardview5">#4CAF50</color>
+    <color name="cardview6">#00BCD4</color>
+    <color name="cardview7">#E91E63</color>
+    <color name="cardview8">#ffd600</color>
+    <color name="cardviews9">#607D8B</color>
+    <color name="cardview10">#F57C00</color>
+</resources>
